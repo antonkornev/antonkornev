@@ -1,7 +1,7 @@
 ### Tech I use
 
 
-![PHP]([https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white](https://img.shields.io/badge/php-logo?style=flat&logo=php&labelColor=gray&color=gray))
+![PHP](https://img.shields.io/badge/php-logo?style=flat&logo=php&labelColor=gray&color=gray)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
